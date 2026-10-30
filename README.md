@@ -52,7 +52,7 @@
 ---
 
 ### 🏆 Certifications
-
+- DevOps - DEPI 
 - DevOps Foundation – Sprints x Microsoft
 - AWS Cloud Academy Graduate
 - HCCDA – Huawei
